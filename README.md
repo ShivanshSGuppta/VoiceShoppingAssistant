@@ -1,6 +1,6 @@
 # Shopping Voice Assistant
 
-A voice-first shopping list app built for a placement assessment.
+A voice-first shopping list app built for real world usage for blind people.
 
 This project focuses on practical voice interactions: speak naturally, let the app interpret intent, and manage your list with minimal typing. It also demonstrates suggestion logic, product search, and graceful fallback when voice APIs are not available.
 
@@ -88,6 +88,6 @@ src/
 - Data is local to the browser session/profile (no sync across devices).
 - Seasonal and substitute logic are demo datasets by design.
 
-## Why this is assessment-ready
+## Why this is product-ready
 
 The app highlights end-to-end product thinking: input handling, intent parsing, state management, UX feedback, and edge-case fallbacks. It is compact, understandable, and easy to demo live.
